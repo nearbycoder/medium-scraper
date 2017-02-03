@@ -10,7 +10,7 @@ medium-scrapper allows for you to scrape latests article from a user
 
 ### Example
 ```javascript
-  scraper = require('./index.js');
+  scraper = require('medium-scraper');
 
   var medium = {user: '@nearbycoder'}
 
